@@ -1,4 +1,4 @@
-Tempo — test sürümü (DEMO, v0.5.0)
+Tempo — test sürümü (DEMO, v0.5.1)
 
 Bu uygulama ücretli Apple Developer kimliğiyle imzalanmadığı için macOS ilk açılışta
 "Apple could not verify Tempo.app..." uyarısı verir ve yalnızca "Move to Trash / Done"
