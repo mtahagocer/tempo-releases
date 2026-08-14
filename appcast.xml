@@ -3,12 +3,12 @@
     <channel>
         <title>Tempo</title>
         <item>
-            <title>0.4.4</title>
-            <pubDate>Fri, 14 Aug 2026 15:47:08 +0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <title>0.4.5</title>
+            <pubDate>Fri, 14 Aug 2026 16:34:21 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/mtahagocer/tempo-releases/main/Tempo-v0.4.4.zip" length="3631669" type="application/octet-stream" sparkle:edSignature="p+ElKPyCcZDH5fcGw3HhvDn/onVbXsm92VeigWftHUDqSQDeZaZOE3dyCshtyxzwd+i3eU5R2AnAF7Xf6l1SDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/mtahagocer/tempo-releases/main/Tempo-v0.4.5.zip" length="3800121" type="application/octet-stream" sparkle:edSignature="AdzpbRCPmzjCq3a6m1h/qPeRWfVy7lFd0XnGoDZZDris6Evyu1VWWdeSDSY5U6qmuP7+vjqQy+F2VkBZb1y5Dw=="/>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,24 @@
+Tempo — test sürümü (DEMO, v0.4.5)
+
+Bu uygulama ücretli Apple Developer kimliğiyle imzalanmadığı için macOS ilk açılışta
+"Apple could not verify Tempo.app..." uyarısı verir ve yalnızca "Move to Trash / Done"
+gösterir. Bu NORMALDİR (kötü amaçlı değil). "Move to Trash" DEMEYİN. Açmak için
+aşağıdaki iki yoldan BİRİNİ kullanın:
+
+  YOL 1 — Terminal (en garantili, tek komut):
+    Tempo.app'i Applications klasörüne taşıyın, sonra Terminal'i açıp şunu çalıştırın:
+        xattr -dr com.apple.quarantine /Applications/Tempo.app
+    Ardından uygulamayı normal çift tıkla açın. Bitti.
+
+  YOL 2 — Sistem Ayarları'ndan (macOS Sequoia / Tahoe):
+    1. Uyarıda "Done"a basın.
+    2. Tempo.app'i bir kez açmayı deneyin (çift tık) → yine engellenir, "Done".
+    3. Apple menüsü () → Sistem Ayarları → Gizlilik ve Güvenlik.
+    4. En alta inin; "Tempo.app engellendi..." satırında "Yine de Aç" (Open Anyway)
+       düğmesine basın → parola/Touch ID ile onaylayın → çıkan pencerede "Aç".
+
+NOT: Eski "sağ tık → Aç" kısayolu yeni macOS sürümlerinde KALDIRILDI; yukarıdaki
+iki yol geçerli olandır.
+
+Uygulama menü çubuğunda (sağ üstte) çalışır — Dock'ta ikon çıkmaz. İlk açılışta
+Erişilebilirlik ve (tarayıcı ölçümü için) Otomasyon izni isteyebilir; izin verin.
