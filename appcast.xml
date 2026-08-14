@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tempo</title>
+        <item>
+            <title>0.4.1</title>
+            <pubDate>Fri, 14 Aug 2026 14:22:04 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mtahagocer/tempo-releases/main/Tempo-v0.4.1.zip" length="3584204" type="application/octet-stream" sparkle:edSignature="mq+QjrQyrjH8onLyaJEqP3Ie5lSC7rtBDrwihUP3od3H7DXUfWHNJwfFzYsi6Vq95j8wNOxaYvK2ty2WmXbWDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/mtahagocer/tempo-releases/main/Tempo6-5.delta" sparkle:deltaFrom="5" length="6790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q3x6f/3gGH8jlLkIoIwFrxtVm0j6odj+d1TXi654bJjkayuQtdd7L7OcsnfjKA5XHBC2+Fc3mHbYgT7y9hFQCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 14 Aug 2026 13:47:45 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mtahagocer/tempo-releases/main/Tempo-v0.4.0.zip" length="3584392" type="application/octet-stream" sparkle:edSignature="TMUKev+4ffETV5WM0/jQvNXJIESJVsHm/jFn5tSfgj9msKcJxRMY7ZRzYRmDEJF2hlJr7tzz63NzB8Xvam5GAA=="/>
+        </item>
+    </channel>
+</rss>
